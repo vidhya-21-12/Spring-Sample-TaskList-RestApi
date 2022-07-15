@@ -12,7 +12,7 @@
  
  1.Run the project through the IDE and head out to http://localhost:8080
  
- 2.Find the end in NameSpaceConstant Folder.
+ 2.Find the end points in NameSpaceConstant Folder.
   
 
 ## Postman Collections:
