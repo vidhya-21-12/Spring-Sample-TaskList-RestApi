@@ -10,8 +10,9 @@
  
  ## API and Url:
  
- Run the project through the IDE and head out to http://localhost:8080
- Find the end in NameSpaceConstant Folder.
+ 1.Run the project through the IDE and head out to http://localhost:8080
+ 
+ 2.Find the end in NameSpaceConstant Folder.
   
 
 ## Postman Collections:
