@@ -25,6 +25,4 @@ public class TaskListDto {
     private String tutorialLink;
     private String repositoryLink;
 
-
-
 }
