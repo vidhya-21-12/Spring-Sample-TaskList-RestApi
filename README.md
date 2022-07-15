@@ -8,8 +8,10 @@
  
  Create a MySQL database with the name springbootdb and add the credentials to /resources/application.properties.
  
+ ## API and Url:
  
- Run the project through the IDE and head out to localhost:8080
+ Run the project through the IDE and head out to http://localhost:8080
+ Find the end in NameSpaceConstant Folder.
   
 
 ## Postman Collections:
